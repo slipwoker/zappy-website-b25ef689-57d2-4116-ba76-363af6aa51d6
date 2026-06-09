@@ -2,13 +2,13 @@
 
 A women's beauty salon specializing in hair treatments, pedicure, and manicure services. The business caters exclusively to women and focuses on personal care and grooming, offering a full range of beauty treatments to help clients look and feel their best.
 
-Source: https://-b25ef689.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלי את סוד היופי האישי שלך — אלה ביוטי
 
-URL: https://-b25ef689.zappy5.app
+URL: https://example.com
 Description: מכון יופי יוקרתי לנשים עם טיפולי שיער, פדיקור ומניקור מותאמים אישית. אנו מתמקדות בטיפוח אישי עם מוצרים אקולוגיים ולא רעילים כדי שתוכלי להרגיש במיטבך. קבעי תור עוד היום!
 
 גלי את סוד היופי האישי שלך — אלה ביוטי
@@ -437,7 +437,7 @@ Description: מכון יופי יוקרתי לנשים עם טיפולי שיע�
 
 ## טיפולי יופי מפנקים שמותאמים רק לך — אלה ביוטי
 
-URL: https://-b25ef689.zappy5.app/services
+URL: https://example.com/services
 Description: מגוון שירותי שיער, פדיקור ומניקור ברמה הגבוהה ביותר, עם דגש על טיפוח עור אישי ומוצרים לא רעילים. כל טיפול מותאם לצרכים שלך לחוויה מקצועית ומרגיעה. הזמיני את הפינוק שמגיע לך!
 
 טיפולי יופי מפנקים שמותאמים רק לך — אלה ביוטי
@@ -835,7 +835,7 @@ Description: מגוון שירותי שיער, פדיקור ומניקור בר�
 
 ## הסיפור מאחורי הטיפוח המושלם — אלה ביוטי
 
-URL: https://-b25ef689.zappy5.app/about
+URL: https://example.com/about
 Description: אלה ביוטי הוא מכון יופי לנשים שנולד מתוך אהבה לטיפוח אישי עם מגע אישי וחם. אנו מאמינות בשימוש במוצרים אקולוגיים וידידותיים לעור כדי להעניק לך חווית יופי בריאה ומעצימה. בואי להכיר אותנו מקרוב!
 
 הסיפור מאחורי הטיפוח המושלם — אלה ביוטי
@@ -1245,7 +1245,7 @@ Description: אלה ביוטי הוא מכון יופי לנשים שנולד מ
 
 ## צרי קשר והתחילי את מסע היופי שלך — אלה ביוטי
 
-URL: https://-b25ef689.zappy5.app/contact
+URL: https://example.com/contact
 Description: מוכנה לחוויית טיפוח אישי שאין כמותה? צרי קשר עם אלה ביוטי לתיאום טיפולי שיער, פדיקור ומניקור בסביבה נשית ומקצועית. לחצי כאן כדי לקבוע תור ולגלות את הקסם שבטיפוח טבעי!
 
 צרי קשר והתחילי את מסע היופי שלך — אלה ביוטי
@@ -1556,7 +1556,7 @@ Description: מוכנה לחוויית טיפוח אישי שאין כמותה? 
 
 ## מדיניות פרטיות
 
-URL: https://-b25ef689.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1797,7 +1797,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-b25ef689.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2047,7 +2047,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-b25ef689.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
