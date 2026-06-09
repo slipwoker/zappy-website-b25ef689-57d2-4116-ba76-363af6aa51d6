@@ -1,0 +1,84 @@
+# אלה ביוטי — Generative Engine Optimization Map
+
+> A women's beauty salon specializing in hair treatments, pedicure, and manicure services. The business caters exclusively to women and focuses on personal care and grooming, offering a full range of beauty treatments to help clients look and feel their best.
+
+---
+
+## Pages
+
+### בית
+https://-b25ef689.zappy5.app
+מכון יופי יוקרתי לנשים עם טיפולי שיער, פדיקור ומניקור מותאמים אישית. אנו מתמקדות בטיפוח אישי עם מוצרים אקולוגיים ולא רעילים כדי שתוכלי להרגיש במיטבך. קבעי תור עוד היום!
+
+### שירותים
+https://-b25ef689.zappy5.app/services
+מגוון שירותי שיער, פדיקור ומניקור ברמה הגבוהה ביותר, עם דגש על טיפוח עור אישי ומוצרים לא רעילים. כל טיפול מותאם לצרכים שלך לחוויה מקצועית ומרגיעה. הזמיני את הפינוק שמגיע לך!
+
+### אודות
+https://-b25ef689.zappy5.app/about
+אלה ביוטי הוא מכון יופי לנשים שנולד מתוך אהבה לטיפוח אישי עם מגע אישי וחם. אנו מאמינות בשימוש במוצרים אקולוגיים וידידותיים לעור כדי להעניק לך חווית יופי בריאה ומעצימה. בואי להכיר אותנו מקרוב!
+
+### צור קשר
+https://-b25ef689.zappy5.app/contact
+מוכנה לחוויית טיפוח אישי שאין כמותה? צרי קשר עם אלה ביוטי לתיאום טיפולי שיער, פדיקור ומניקור בסביבה נשית ומקצועית. לחצי כאן כדי לקבוע תור ולגלות את הקסם שבטיפוח טבעי!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-b25ef689.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-b25ef689.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-b25ef689.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-b25ef689.zappy5.app/contact
+- Endpoint: https://-b25ef689.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אלה ביוטי
+A women's beauty salon specializing in hair treatments, pedicure, and manicure services. The business caters exclusively to women and focuses on personal care and grooming, offering a full range of beauty treatments to help clients look and feel their best.
+
+## Services/Products
+- טיפול בשיער נשי
+- פדיקור
+- מניקור
+
+## Target Audience
+- נשים
+- אמהות חדשות
+- כלות לעתיד
+- משפיעניות אופנה
+
+## Industry
+Beauty & Personal Care
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-b25ef689.zappy5.app/sitemap.xml
+- Robots: https://-b25ef689.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-b25ef689.zappy5.app/llms-full.txt
